@@ -7,7 +7,7 @@
 - **Semestre:** 6
 - **Ano:** 2025.2
 
-## Integrantes do Projeto
+## Integrantes do Projeto.
 
 <table>
   <tr>
